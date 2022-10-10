@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "ServiceRegistrarUrl": "http://localhost:8888/api/service-registry",
+    "MyFQDN": "http://localhost:7100"
+  }
+}
