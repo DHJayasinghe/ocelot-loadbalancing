@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "HttpDelegationMaster": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 8888",
+      "launchBrowser": false
+    }
+  }
+}

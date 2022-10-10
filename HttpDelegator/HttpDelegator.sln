@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31919.166
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpDelegationMaster", "HttpDelegationMaster\HttpDelegationMaster.csproj", "{ED2C5493-EDB1-4037-A6FA-E497B35C61FE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HttpDelegationMaster", "HttpDelegationMaster\HttpDelegationMaster.csproj", "{ED2C5493-EDB1-4037-A6FA-E497B35C61FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlaveWorker1", "SlaveWorker1\SlaveWorker1.csproj", "{21FF76BB-4F0F-4D85-839C-384027178B7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlaveWorker2", "SlaveWorker2\SlaveWorker2.csproj", "{D675FA3F-4D0B-46B8-A3D3-2DEA595F7E71}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{ED2C5493-EDB1-4037-A6FA-E497B35C61FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ED2C5493-EDB1-4037-A6FA-E497B35C61FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ED2C5493-EDB1-4037-A6FA-E497B35C61FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21FF76BB-4F0F-4D85-839C-384027178B7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21FF76BB-4F0F-4D85-839C-384027178B7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21FF76BB-4F0F-4D85-839C-384027178B7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21FF76BB-4F0F-4D85-839C-384027178B7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D675FA3F-4D0B-46B8-A3D3-2DEA595F7E71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D675FA3F-4D0B-46B8-A3D3-2DEA595F7E71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D675FA3F-4D0B-46B8-A3D3-2DEA595F7E71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D675FA3F-4D0B-46B8-A3D3-2DEA595F7E71}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

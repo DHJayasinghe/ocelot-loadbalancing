@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "SlaveWorker2": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7100",
+      "launchBrowser": false
+    }
+  }
+}
